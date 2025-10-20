@@ -1,0 +1,17 @@
+{
+  "name": "Otaku's Gambit",
+  "short_name": "Otaku's Gambit",
+  "description": "A tactical, chess-like card game with customizable cards and unique class abilities. Create your cards, build your deck, and outmaneuver your opponent on the 8x8 battlefield.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#DAAB2D",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
